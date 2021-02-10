@@ -1,6 +1,6 @@
 # NO2data2013-2018_dou-etal_github
 
-Daily ground-level NO2 concentrations in China had been compressed in predict_result_RF.zip, corresponding with the location information LON_LAT_ROW_COL.csv. 
+Daily ground-level NO2 concentrations in China had been compressed in YYYYMM.rar by month, corresponding with the location information LON_LAT_ROW_COL.csv. 
 
 Daily ground-level NO2 concentration predictions in China in ug/m^3 / 0.25degree x 0.25degree / day for the .csv files with ROW (represents latitude information) and COL(represents longitude information) coordinates referring to the row number and col number of each grid-cell. 
 Please refer to the text of the paper for more information.
